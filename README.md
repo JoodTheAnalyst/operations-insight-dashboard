@@ -41,7 +41,7 @@ This interface serves as the primary BI command center, featuring a dynamic brea
 - Clone this repo: git clone https://github.com/JoodTheAnalyst/operations-insight-dashboard
 - Open the data/cleaned/ folder to view the source dataset.
 - Review notebooks/analysis-walkthrough.md to understand the formula logic and cleaning steps.
-- click on this link to interact with the live dashboard [View Live Interactive Dashboard](https://docs.google.com/spreadsheets/d/1xVoaPTUtM-UiwLkYp12r315T9y42ycurUFRofyWhjsk/edit?usp=sharing)
+- click on this link to interact with the live dashboard [View Live Interactive Dashboard](https://docs.google.com/spreadsheets/d/1xVoaPTUtM-UiwLkYp12r315T9y42ycurUFRofyWhjsk/edit?usp=sharing
 
 ## What I'd Do Next
 - Underperformer Analysis: Investigate why the bottom-performing states are lagging and if a "Sales Channel" shift (e.g., more Online focus) could mirror Delta's success.
